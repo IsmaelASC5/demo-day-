@@ -1,0 +1,17 @@
+#people{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap-reverse;
+  
+}
+body{
+    text-align: center
+    
+    
+}
+div{
+    overflow-wrap: normal;
+}
+#first{
+    background-color: aqua;
+}
